@@ -1,0 +1,7 @@
+First Name: Peepoy
+Last Name: Choudhary
+Department: Sales
+Email: peepoy.choudhary@salescompany.com
+Password: c2.n)rL&aR4j
+Alternate Email: null
+Mail Capacity: 500
